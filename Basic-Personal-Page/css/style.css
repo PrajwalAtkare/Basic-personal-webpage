@@ -1,0 +1,90 @@
+body{
+  text-align: center;
+  margin:0;
+  font-family: 'Merriweather', serif;
+}
+
+.smg{
+  height: 25px;
+  border-radius: 100%;
+  right:0;
+}
+.flower{
+
+  margin-top: auto;
+
+}
+h1{
+font-family: 'Sacramento', cursive;
+margin: 50px auto 0 auto ;
+
+font-size: 5.625rem;
+
+}
+.skillrow{
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+h2{
+  font-family: 'Merriweather', serif;
+  font-size: 2.5rem;
+}
+.top-container{
+  background-color: #c6ebc9;
+  padding-top: 100px;
+}
+
+.bottom-container{
+  background-color: #c6ebc9;
+  height: 100px;
+}
+
+
+a{
+color: black;
+  text-decoration: none;
+  margin: 10px 20px;
+
+}
+
+a:hover{
+  color: blue;
+}
+/*.middle-container{
+  position: relative;
+  display: inline-block;
+}*/
+
+/*.middle-container{
+  background-color: red;
+  height:200px;
+  width:200px;
+  position: relative;
+
+  display: inline-block;
+
+}
+
+.bottom-container{
+  background-color: yellow;
+  height: 200px;
+  width:200px;
+display: inline-block;
+    position: relative;
+left:200px;
+
+}*/
+.top-cloud{
+position: relative;
+left:150px;
+}
+.bottom-cloud{
+  position:absolute;
+
+}
+.flower{
+
+  width:400px;
+  height:400px;
+}
